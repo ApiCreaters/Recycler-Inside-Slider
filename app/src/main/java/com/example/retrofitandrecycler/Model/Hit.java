@@ -1,7 +1,7 @@
 package com.example.retrofitandrecycler.Model;
 
 public class Hit {
-    private  String previewURL,largeImageURL;
+    private String previewURL, largeImageURL;
 
     public Hit(String previewURL, String largeImageURL) {
         this.previewURL = previewURL;

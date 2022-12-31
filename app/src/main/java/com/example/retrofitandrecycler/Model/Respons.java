@@ -3,7 +3,7 @@ package com.example.retrofitandrecycler.Model;
 import java.util.List;
 
 public class Respons {
-    private int total,totalHits;
+    private int total, totalHits;
     private List<Hit> hits;
 
     public Respons(int total, int totalHits, List<Hit> hits) {
